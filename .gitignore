@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+# Binary files
+*.bin
+
+# Prob files
+*.prob
+
 # Object files
 *.o
 *.ko
